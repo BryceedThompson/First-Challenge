@@ -1,4 +1,4 @@
-  /**/
+
   /* This provides structure to the entire page. More specificaly giving 0 margin and padding, while setting
   the box-sizing property allows us to include the padding and border in an element's total width and height.  */
 * {
