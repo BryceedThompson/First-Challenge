@@ -9,25 +9,25 @@ template are as follows:
 - Created a logical structure independent of styling and positioning
 - Added accessible alt attributes to the icon and image elements
 
-![alt text background](Assets/images/alt%20tex%20background.PNG)
+![alt text background](readme-assets/images/alt%20tex%20background.PNG)
 
-![alt text image](Assets/images/alt%20text%20image.PNG)
+![alt text image](readme-assets/images/alt%20text%20image.PNG)
 
 - Made sure heading attributes fall in sequential order
 - Added a concise and descriptive title to the title element
 
-![title element](Assets/images/title%20element.PNG)
+![title element](readme-assets/images/title%20element.PNG)
 
 - Added comments to the css and html file
 
-![comment example](Assets/images/description%20example.PNG)
+![comment example](readme-assets/images/description%20example.PNG)
 
 - Changed some coloring for better viewablity
 - Fix the nonfunctioning jump links
 
-![jumplink 1](Assets/images/jump%20link%201.PNG)
+![jumplink 1](readme-assets/images/jump%20link%201.PNG)
 
-![jumplink 2](Assets/images/jump%20link%202.PNG)
+![jumplink 2](readme-assets/images/jump%20link%202.PNG)
 
 
 ## Installation
@@ -38,10 +38,10 @@ Open the link in my GitHub Repo!
 
 Here is an example of what should happen when using the nav bar.
 
-![nav bar 1](Assets/images/nav%20bar.PNG)
+![nav bar 1](readme-assets/images/nav%20bar.PNG)
 Click on one of the 3 options.
 
-![nav bar destination](Assets/images/nav%20bar%20destination.PNG)
+![nav bar destination](readme-assets/images/nav%20bar%20destination.PNG)
 Then it will take you to the option you chose, In this case we clicked on Online Reputation Management!
 
 ## Credits
